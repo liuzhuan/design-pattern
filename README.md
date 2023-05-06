@@ -1,2 +1,3 @@
-# design-pattern
-Design pattern in JavaScript
+# Design pattern in JavaScript
+
+- [Command Pattern](./command-pattern/index.js)
